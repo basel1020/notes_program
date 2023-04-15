@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878395799679",
+    "project_id": "note-app-fc495",
+    "storage_bucket": "note-app-fc495.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878395799679:android:d95d5c3851e60ca0d0274a",
+        "android_client_info": {
+          "package_name": "com.aboodsiaj2.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878395799679-9n98k2arh3rafb516rf67kvstlj9hr0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckPSHhPBB3IWYCtcFTWYVQdQY7wnaQbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878395799679-9n98k2arh3rafb516rf67kvstlj9hr0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
